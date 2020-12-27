@@ -36,3 +36,5 @@ por final, adicione o azeite.
 - Passar azeite ao redor da massa como um bronzeador, botar no frasco e cobrir para o fermento crescer.
 - Untar a forma para evitar que a massa grude, passar a massa até cobrir a forma, recheiar a massa e botar queijo na superficie.
 - Passar azeite ou ovo nas bordas superiores para ficar dourado.
+
+> Baseado na receita: https://www.tastemade.com.br/videos/pizza-recheada
