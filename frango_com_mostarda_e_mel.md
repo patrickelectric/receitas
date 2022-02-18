@@ -21,4 +21,4 @@
 - Adicione o mel e misture
 - Coloque sal, pimenta, oregano e misture
 
-- Sirva com complemento, ex: batata palha
+Sirva com complemento, ex: batata palha
