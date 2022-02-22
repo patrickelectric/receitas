@@ -3,7 +3,7 @@
 ## INGREDIENTES
 - 500g de sassami de frango
 - 200g de creme de leite
-- 1 colher de mel
+- 1 colher generosa de mel
 - 2 colheres de mostarda a moda antiga
 - 2 dentes de alho
 - Azeite
