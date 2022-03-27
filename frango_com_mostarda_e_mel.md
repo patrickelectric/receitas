@@ -14,7 +14,7 @@
 ## Molho
 - Corte o frango em cubos
 - Bote o frango na frigideira até ficar no ponto
-- Coloque no foco baixo
+- Coloque no fogo baixo
 - Adicione o alho até dourar um pouco
 - Adicione o creme de leite e misture todo o frango
 - Adicione a mostarde e misture
