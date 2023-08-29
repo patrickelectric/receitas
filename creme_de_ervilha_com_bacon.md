@@ -15,6 +15,7 @@
 - Coloque a ervilha e complete a agua até ficar 2 dedos sobre o nivel da ervilha
 - Espere ferver, diminua o gás e espere 20 minutos
 - Depois de pronto, coloque a ervilha no liquidificador
+  - Coloque 85% de ervilha no liquidificador, e depois misture o resto com a finalização 
 
 ## Finalização
 - Frite o bacon e a calabresa (testar com 3 colheres de mostarda em grão)
