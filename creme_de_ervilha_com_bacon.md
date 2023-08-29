@@ -20,5 +20,6 @@
 ## Finalização
 - Frite o bacon e a calabresa (testar com 3 colheres de mostarda em grão)
 - Adicione a cebola e alho quando o bacon tiver quase pronto
+  - Pode adicionar uma colher de sobremesa de mel 
 - Espere fritar tudo
 - Misture a ervilha, adicione tempero verde e pimenta
