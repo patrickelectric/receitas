@@ -7,4 +7,4 @@
 
 # Preparo
 - Adicione tudo em um receptaculo que pode ir no microondas
-- Liguei o microondas para 6 minutos na potencia máxima e misture a cada 2min
+- Ligue o microondas para 6 minutos na potencia máxima e misture a cada 2min
