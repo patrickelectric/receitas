@@ -12,9 +12,7 @@
 - 6 gotas de essencia de baunilha (opcional) 
 
 ## MASSA
-- Misture em um recipiente os secos: a farinha, o açúcar, o fermento e o sal.
-- Em outro recipiente, misture molhados: (baunilha), os ovos, o leite e a manteiga.
-- Acrescente os líquidos aos secos, sem misturar em excesso.
+- Misture tudo e deixe o fermento para o final.
 - O ponto da massa não deve ser muito líquido, deve escorrer lentamente.
 - Aqueça e unte a frigideira com óleo, retire o excesso assim que ficar quente.
 - Coloque a massa no centro, cerca de 1/4 xícara por panqueca.
