@@ -7,10 +7,12 @@
 - 1/2 colher de fumaça
 - 2 dentes de alho
 - 2 pitadas de sal
-- Opcional: !/4 de suco de limão
+- Opcional: 1/4 de suco de limão
 
 # Preparo
 - Utilize **a agua** da lata de grão de bico
-- Complete o volume com óleo de cozinha até completar 500ml
-- Adicione todos os ingredientes
+- Adicione todos os ingredientes exceto o óleo à água e bata por poucos segundos para iniciar a mistura
+- Caso esteja usando um mixer de imersão, complete o volume com óleo de cozinha até completar 500ml
+- Caso contrário, vá adicionando o óleo aos poucos para não talhar a emulsão
 - Misture tudo até ficar homogéneo
+  
