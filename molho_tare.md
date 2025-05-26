@@ -1,4 +1,4 @@
-# Molho tare
+# Molho tarê
 
 ## INGREDIENTES
 - 1 xicara de molho shoyu
