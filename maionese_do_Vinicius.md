@@ -1,9 +1,9 @@
 # Maionese do Vinicius
 
 # Ingredientes
-- 1 lata de grão de bico cozido
+- 1 lata de grão de bico cozido (quanto mais liquido melhor)
 - Óleo de cozinha
-- 1 colher de pabrica
+- 1 colher de paprica
 - 1/2 colher de fumaça
 - 2 dentes de alho
 - 2 pitadas de sal
