@@ -13,6 +13,8 @@
 - 1 cebola
 - Sal e pimenta
 
+> Pode substituir o presunto por um brocolis inteiros para fazer uma lasanha vegetariana 
+
 ## Preparo
 - Frite a cebola picada com a manteiga
 - Adicione o leite, creme, ervilha, não deixe ferver
