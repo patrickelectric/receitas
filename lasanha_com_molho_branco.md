@@ -11,7 +11,7 @@
 - 1 caixa de creme de leite
 - 1 noz moscada
 - 1 cebola
-- Sal e pimenta
+- Sal, pimenta, oregano
 
 > Pode substituir o presunto por um brocolis inteiros para fazer uma lasanha vegetariana 
 
