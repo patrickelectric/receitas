@@ -1,4 +1,4 @@
-# Refogado de beringela
+# Babaganoush
 
 ## INGREDIENTES
 - 2 berinjelas
